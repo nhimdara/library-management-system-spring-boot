@@ -11,11 +11,11 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.example</groupId>
-    <artifactId>library-management</artifactId>
+    <groupId>com.library</groupId>
+    <artifactId>library-management-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>library-management</name>
-    <description>Library Management System Backend</description>
+    <name>library-management-api</name>
+    <description>Library Management API Spring Boot Backend</description>
 
     <properties>
         <java.version>17</java.version>
